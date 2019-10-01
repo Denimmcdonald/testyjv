@@ -47,7 +47,7 @@
     };
     
     data.Blocks[data.Ids.BLUE] = {
-        value: 50000,
+        value: 20000,
         betChipFrame: 'chip_blue'
     };
     
