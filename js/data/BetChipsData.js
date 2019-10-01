@@ -32,22 +32,22 @@
     
     data.Blocks = { };
     data.Blocks[data.Ids.GREEN] = {
-        value: 10,
+        value: 500,
         betChipFrame: 'chip_green'
     };
     
     data.Blocks[data.Ids.PURPLE] = {
-        value: 50,
+        value: 1000,
         betChipFrame: 'chip_purple'
     };
     
     data.Blocks[data.Ids.RED] = {
-        value: 250,
+        value: 10000,
         betChipFrame: 'chip_red'
     };
     
     data.Blocks[data.Ids.BLUE] = {
-        value: 1000,
+        value: 20000,
         betChipFrame: 'chip_blue'
     };
     
